@@ -1,0 +1,14 @@
+.boton {
+  background-color: #6e0c0c;
+  color: rgb(0, 0, 0);
+  padding: 12px 50px;
+  border: none;
+  border-radius: 15px;
+  cursor: pointer;
+  float: right;
+  }
+  
+  .boton2:hover {
+    background-color: #b91212;
+      }
+  
